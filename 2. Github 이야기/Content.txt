@@ -1,0 +1,26 @@
+# GitHub 이야기
+
+1. git에서 hub라는 말은 모든 우주의 중심 이라는 뜻으로 이해하면 편하다.
+2. 우주보다는 개발자의 중심으로 치환해야 한다.
+3. 로컬에서 개발하다보면 달라진다? 공유하기 힘들다.
+4. 그래서 가장 중요한 건 hub에 공유하는 거다.
+5. github: 개발자의 놀이터로 치환하면 더 완벽하게 이해된다.
+6. public: 무료, private: 유료화했네
+7. 일단 클라우드 저장소이다.
+8. 마이크로소프트는 유료화의 화신이다.
+9. 사람들은 public도 유료화 되겠구나 착각했지만, 이 사람들은 이건 남겨두었네? 완전 럭키 비키
+10. 구글은 모든 책들을 전자문서로 만들고 싶어했지만... 뭐
+11. 스캔을 문자화 시키겠다는 포부는 있었지만...
+12. 처음에는 사람이 분석하다가. -> 리캡챠를 인수했다.
+13. 로그인 -> 실패 -> 문자! -> 비밀번호 -> 로봇 -> 문자!
+14. 구글이 하는 전세계적 프로젝트 모든 사람들이 모든 전자문서들에 대해서 기여하고 있다. 머리 겁나 잘 쓰네
+15. 구글에 리캡차 신호등 택시건널목 "https://www.google.com/search?q=%EB%A6%AC%EC%BA%A1%EC%B0%A8+%EC%8B%A0%ED%98%B8%EB%93%B1+%ED%83%9D%EC%8B%9C+%EA%B1%B4%EB%84%90%EB%AA%A9&sca_esv=4cf36d7972dd733c&sxsrf=ADLYWIJsksnPVovCNeq-ADLpsjousGvOmg%3A1720927284804&ei=NESTZoLrMJSSvr0Pva2-uAU&ved=0ahUKEwiC1frbyaWHAxUUia8BHb2WD1cQ4dUDCA8&uact=5&oq=%EB%A6%AC%EC%BA%A1%EC%B0%A8+%EC%8B%A0%ED%98%B8%EB%93%B1+%ED%83%9D%EC%8B%9C+%EA%B1%B4%EB%84%90%EB%AA%A9&gs_lp=Egxnd3Mtd2l6LXNlcnAiJOumrOy6oeywqCDsi6DtmLjrk7Eg7YOd7IucIOqxtOuEkOuqqTIFECEYoAEyBRAhGKABSLUWUPYCWOAVcAR4AZABBJgBsAGgAa4YqgEEMS4yNbgBA8gBAPgBAZgCDqAC8AjCAgoQABiwAxjWBBhHwgIEECMYJ8ICBRAAGIAEwgIKEAAYgAQYFBiHAsICBBAAGB7CAgcQIRigARgKmAMAiAYBkAYKkgcDNS45oAeAYg&sclient=gws-wiz-serp"
+16. 이런 걸 검색해보면 답이 나온다.
+17. 도로에 자동차에서 대가리에 사진기 달린 자동차가 돌아다니는 걸 보았을 것이다.
+18. 이게, 사진 찍어서 빅데이터로 전송하고 이걸 저런 리캡차를 통해 빅데이터를 분석하는 것이다.
+19. 근데 마이크로소프트는 왜 github를 인수했을까?
+20. private -> 무료, public -> 무료
+21. 아무리 생각해도 빅데이터를 위해서라고 생각한다.
+22. 마이크로소프트 -> 링크드인 -> 전 세계 모든 구직자 데이터 확보!
+23. 결국 전부 빅데이터로 이루어진다. 라는 거지 미래는 휴먼클라우드 (능력 제한) 사람을 뽑는다. 전세계의 사람이 그 방대한 데이터를 갖고 있다면
+24. 그것은 모든 것을 좌지우지 한다는 뜻이다.
